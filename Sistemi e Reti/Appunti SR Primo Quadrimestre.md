@@ -31,13 +31,19 @@ Per ogni protocollo abbiamo una tabella di informazioni generali che vanno saput
 
 Lato **client** abbiamo il browser che pwò essere **Chrome** **NON GOOGLE** oppure **Firefox**, mentre a livello **server** come applicativo usiamo **Apache**, **IIS**.
 
-> [!warning] N.B.
-> _Non bisogna confondere il **www** (Organizzazione) e **http** (Protocollo) oppure **Internet** (Insieme di router) e il **www**._
+{% hint style="warning" %}
+**N.B.**
 
-> [!info] URL vs URI
-> **URI** (Uniform Resource Identifier): stringa che **identifica** una risorsa, per nome o per posizione (es. `https://ispascalcomandini.com`).
-> **URL** (Uniform Resource Locator): tipo di URI che dice anche **dove** si trova la risorsa e **come** raggiungerla (es. `https://ispascalcomandini.com/pagine/presentazione`).
-> Ogni URL è un URI, ma non ogni URI è un URL.
+_Non bisogna confondere il **www** (Organizzazione) e **http** (Protocollo) oppure **Internet** (Insieme di router) e il **www**._
+{% endhint %}
+
+{% hint style="info" %}
+**URL vs URI**
+
+**URI** (Uniform Resource Identifier): stringa che **identifica** una risorsa, per nome o per posizione (es. `https://ispascalcomandini.com`).
+**URL** (Uniform Resource Locator): tipo di URI che dice anche **dove** si trova la risorsa e **come** raggiungerla (es. `https://ispascalcomandini.com/pagine/presentazione`).
+Ogni URL è un URI, ma non ogni URI è un URL.
+{% endhint %}
 
 ### TIPI DI RICHIESTE
 
@@ -74,6 +80,7 @@ La HTTP Response è composta da 3 parti:
 - **Header** 
 - **Body** 
 
->[!info] L'**HTTP** è un protocollo **stateless** ovvero perde la memoria dei contenuti scambiati ad ogni richiesta, oggi riusciamo a mantenere lo stato grazie all'utilizzo dei **Cookie**.
->
+{% hint style="info" %}
+L'**HTTP** è un protocollo **stateless** ovvero perde la memoria dei contenuti scambiati ad ogni richiesta, oggi riusciamo a mantenere lo stato grazie all'utilizzo dei **Cookie**.
+{% endhint %}
 

@@ -5,8 +5,11 @@ Corrente letteraria della quale sono riconoscibili i tratti. E' un qualcosa di p
 
 ### **Naturalismo Francese (Presente nei vecchi appunti di maggio)**
 
-> [!info] Vedi anche
-> [[Appunti gia presenti#IL NATURALISMO]]
+{% hint style="info" %}
+**Vedi anche**
+
+[Appunti gia presenti → Il Naturalismo](Appunti%20gia%20presenti.md#il-naturalismo)
+{% endhint %}
 
 **PRIMO PARAGRAFO PAGINA 73**
 
@@ -43,8 +46,12 @@ Se gli uomini possono fanno di tutto per arricchirsi sacrificando anche aspetti 
 
 ## Tecniche narrative varghiane
 
-> [!note]- ECLISSI DELL'AUTORE (o IMPERSONALITA')
-> 
+<details>
+
+<summary>ECLISSI DELL'AUTORE (o IMPERSONALITA')</summary>
+
+
+</details>
 
 | Artificio della regressione                                       | Artificio dello straniamento                                                                                                                                                                                                                                                  | Discorso indiretto libero                                                                           |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |

@@ -71,8 +71,11 @@ Gestire un'azienda è difficile perché chi la guida deve confrontarsi con la **
 - **Dipendenti:** Gestione di aspettative, esigenze diverse e welfare aziendale.
 - **Azionisti:** Nelle aziende di grandi dimensioni potrebbero esserci dei problemi con gli azionisti.
 
->[!note] Nota di gestione
->Occorre gestire tutte le variabili (esterne ed interne) che possono presentarsi **insieme**.
+{% hint style="info" %}
+**Nota di gestione**
+
+Occorre gestire tutte le variabili (esterne ed interne) che possono presentarsi **insieme**.
+{% endhint %}
 
 # **BISOGNI**
 
@@ -164,8 +167,9 @@ Questo modello ha creato **forte disparità sociale** e **tensioni sociali**. Pa
 
 Un **ricco attira più soldi** solo perché lo è già. Ed essendo diventato ricco una volta, le competenze rimangono, quindi rimarrà sempre superiore al povero che non sapeva fare prima e non sa fare ora.
 
->[!info] I social spesso influenzano e polarizzano il pensiero politico dei ragazzi senza che essi se ne rendano conto, bisogna stare attenti.
->
+{% hint style="info" %}
+I social spesso influenzano e polarizzano il pensiero politico dei ragazzi senza che essi se ne rendano conto, bisogna stare attenti.
+{% endhint %}
 
 Il **1929** mise in **crisi** il **modello capitalista/liberista** con lo scoppio di **una bolla** (il **crollo di Wall Street**) che fu **talmente tragica** da mettere in **crisi** anche gli **economisti**.
 
@@ -177,8 +181,11 @@ Il secondo **modello** che vediamo è quello **collettivista** di matrice orient
 	- Non puoi permetterti di discostarti troppo da quello che ti hanno detto di essere, perché sennò inizi ad essere un reazionario, un capitalista. Se provi a fare qualcosa di diverso o di innovativo vieni visto come un deviato, diverso.
 	- C'è un'uguaglianza imposta, anche sminuendo gli oppositori
 
->[!tip] Info aggiuntiva (non detta in classe)
->Il modello collettivista si ispira al pensiero di **Karl Marx** ed è stato applicato soprattutto nell'**URSS** e nei paesi del **blocco dell'Est**, oltre che in Cina e Vietnam. Lo **Stato** decide tramite una **pianificazione centrale** cosa, come e quanto produrre.
+{% hint style="success" %}
+**Info aggiuntiva (non detta in classe)**
+
+Il modello collettivista si ispira al pensiero di **Karl Marx** ed è stato applicato soprattutto nell'**URSS** e nei paesi del **blocco dell'Est**, oltre che in Cina e Vietnam. Lo **Stato** decide tramite una **pianificazione centrale** cosa, come e quanto produrre.
+{% endhint %}
 
 
 
