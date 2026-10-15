@@ -1,0 +1,8 @@
+# Obsidian: stato della finestra e cestino, cambiano a ogni apertura
+.obsidian/workspace*.json
+.trash/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+desktop.ini

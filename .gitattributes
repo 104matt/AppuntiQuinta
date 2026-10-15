@@ -1,0 +1,2 @@
+# Fine riga LF anche su Windows, così i diff tra PC restano puliti
+* text=auto eol=lf
