@@ -5,6 +5,7 @@
 ## GPOI
 
 * [Appunti GPOI Primo Quadrimestre](GPOI/Appunti%20GPOI%20Primo%20Quadrimestre.md)
+* [Domande interrogazione 2](GPOI/Domande%20interrogazione%202.md)
 
 ## Informatica
 
@@ -26,3 +27,7 @@
 ## Storia
 
 * [Appunti Storia Primo Quadrimestre](Storia/Appunti%20Storia%20Primo%20Quadrimestre.md)
+
+## TPSIT
+
+* [Appunti TPSIT Primo Quadrimestre](TPSIT/Appunti%20TPSIT%20Primo%20Quadrimestre.md)

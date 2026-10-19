@@ -106,6 +106,40 @@ Le politiche di Giolitti non risolsero le problematiche del meridione:
 
 Non è un caso che buona parte della popolazione meridionale dedicasse quindi di emigrare all’esterno.
 
+# PRIMA GUERRA MONDIALE
+
+Due principali fazioni:
+- Triplice Intesa: Francia, Gran Bretagna e Russia
+- Triplice Alleanza: Germania, Austria-Ungheria, Ita
+
+Si trovavano tra gli stati **Competizione** e **Tensioni** tra cui:
+- Francia - Germania (p.e **Alsazia e Lorena**)
+- Gran Bretagna e Germania (p.e **Controllo dei mari**)
+	- La germania costruisce una flotta molto potente per ottenere l'egemonia del commercio marittimo 
+- L'impero Austro-Ungarico non andava d'accordo con la Russia.
+	- Progetto **pan-slavista** 
+	- La **Bosnia Erzegovina** viene annessa all'Austro Ungheria senza dire nulla agli altri membri della **Triplice Alleanza**.
+- C'è tensione tra **Austro Ungheria** e **Italia** per a Bosnia.
+- Grand Bretagna e Russia per le **Colonie Asiatiche**. 
+
+## LA MICCIA CHE FECE SCOPPIARE LA GUERRA, SARAJEVO
+
+Nel **giugno** del 1914 il giovane 19enne **Gavrilo Princip** parte di una associazione nazionalista Bosniaca **spara** e **uccide** l'erede al trono **Austro Ungarico**.
+
+L'impero **Austro Ungarico** decide quindi di annettere la **Serbia** e risolvere i problemi presenti da tempo. Emana quindi un **ULTIMATUM** estremamente a favore dell'Impero Austro Ungarico, la serbia rifiuta e nel **Luglio** del **1914** inizia la **Prima Guerra Mondiale**.
+
+Inizia quindi un **Effetto Domino** che a partire dalle alleanze stipulate in segreto coinvolse buona parte delle potenze dell'epoca.
+
+La germania aveva poca ma alcune colonie che facevano gola al **Giappone**.
+
+Grazie alle campagne culturali nei diversi paesi coinvolti la popolazione reagì con entusiasmo al conflitto. I giovani suprattutto quelli della classe media che da anni erano inseriti in un sistmea di indottrinamento nazionalista accorsero volontariamente alla chiamata alle armi.
+
+
+
+La germania cerca il modo di sconfiggere la francia nel modo piu veloce possibile. Quindi decide di passare dal **Belgio**. Ci si aspettava di passare velocemente dal Belgio ma resiste piu del previsto e da il tempo agli alleati inglesi di raggiungere il fronte e fornire supporto. I due fronti si scontrano e quindi da una ipotetica **guerra lampo** a una **guerra di posizione**.
+
+
+
 
 
 

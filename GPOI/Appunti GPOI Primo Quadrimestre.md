@@ -193,3 +193,9 @@ Negli **anni '30** ci fu una riflessione dopo le varie crisi economiche. L'econo
 - Quando il **mercato si espande**, **lo stato deve** effettivamente **farsi da parte**. Quando però si giunge a una depressione economica lo **stato** deve **intervenire** (temporaneamente, senza eliminare mercato e proprietà privata) sul mercato **facendolo ripartire**. Lo stato può **rilanciare il mercato** tramite degli **investimenti strutturali** su opere molto costose che continueranno ad avere una loro utilità finita la crisi (Per Esempio Strade, Ponti, Scuole). Deve **creare** quindi qualcosa che **rimanga nel tempo** e che richieda **molti anni di lavoro**.
 	- Per fare questi **investimenti** lo stato **ha bisogno di denaro** e di conseguenza si **indebita** chiedendo al **mercato** il denaro e fornendogli dei **titoli di stato**.
 		- Un cittadino può acquistare dei **titoli di debito** dallo stato con la promessa di ricevere in ritorno la stessa somma di denaro **più** un **tasso di interesse** (premio). Tanto più alto sarà il **rischio**, tanto più alto sarà il tasso di interesse.
+		- Le aziende si ritrovano tra gli introiti in parte anche fondi statali e di conseguenza si prende la libertà di comprare nuovi macchinari, assumere personale e di conseguenza le famiglie assunte passeranno da avere da 1 a 2 stipendi e teoricamente questo inalza il sentiment che prima era sceso.
+		- I soldi dei titoli di stato vengono ridati ai privati, quindi quando l'econimia riparte ed è in espansione il gettito fiscale riparte. Avendo l'economia che gira di nuovo si hanno piu lavoratori e quindi più persone che pagano tasse, con le quali ripagare coloro che investono nei titoli di stato.
+			- Questa logica però non funziona e lascia allo stato solo un rimborso parziale per vari motivi tra cui il lavoro in nero oppure 
+		- Da questi investimenti si apre una **cascata** di **sub-appalti** *(Da finire)*
+
+- 

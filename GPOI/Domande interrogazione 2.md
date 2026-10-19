@@ -1,0 +1,16 @@
+- Parlami del **WHY**. 
+- Come colleghi il why con **A, B ,C**.
+- Quali sono i fattori a cui sono sensibili gli ingenieri A.
+	- Quando si fanno i colloqui non è sempre l'azienda che sceglie. Cos'è che guarda il dipendente A quando va a fare un colloquio.
+		- La risposta dovrebbe essere: **Leader e Ideali, Impatto sul Mondo, Soldi**
+- Quali sono le priorità di un **Manager** in una azienda **ETech**.
+	- Risposta: Ricerca del talento, Collocazione delle persone nel posto giusto
+- La differenza tra mission e vision.
+- Il Framework per trovare il **perfect job**. 
+- Seguire la tua passione è un good o un bad advice.
+	- Cosa vuol dire duro lavoro? Farsi il culo
+	- La passione non è la causa ma la conseguenza
+- Si dice che l'ingegnere A possa essere da 10 a infinite volte maggiore di uno medio.
+	- P(A) / P(B) = 10
+- Le persone devono essere **Smart, and get stuff done**. Quindi essere intelligenti e arrivare in fondo alle cose.
+- 
