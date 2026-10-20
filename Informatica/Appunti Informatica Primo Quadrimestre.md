@@ -26,4 +26,42 @@ C# non nasce come linguaggio funzionale puro ma piano piano si sta integrando. L
 
 
 
+# FUNZIONI COME VALORI
 
+```cs
+Func<T, TResult> prende T e restituisce TResult
+Func<T1, T2, R> due parametri fino a 16
+Action<T> prende T e non restituisce nulla
+Predicate<T> prende T, restituisce bool
+```
+
+| FIrma             | Tipo C#             | Esempio              |
+| ----------------- | ------------------- | -------------------- |
+| int -> string     | Func<int, string>   | i => i.ToString()    |
+| () -> string      | Func< string >      | () => "ciao"         |
+| int -> ()         | Action< int >       | i = Print(i)         |
+| () -> ()          | Action              | () => Print("Ciao!") |
+| (int, int) -> int | Func<int, int, int> | (a, b) => a +b       |
+
+### LA FIRMA DI UNA HIGH ORDER FUNCTION
+
+Funzioni che **ricevono** funzioni e **restituiscono** funzioni.
+
+```cs
+static R Connetti<R>(string connStr, Func<IDbConnection, R> f)
+
+// freccia: (string, (IDbConnection => R)) -> R
+// C#: Func<string, Func<IDbConnection, R>, R>
+```
+
+### ORDINARE SENZA DISTRUGGERE
+
+Metti screenshot
+
+
+### I RECORD
+
+```cs
+public record Studente(
+	string Nome, string Classe, double Media);
+```

@@ -113,3 +113,31 @@ La roba è l'insieme delle proprietà che danno ricchezza che il personaggio men
 
 Verga diceva che non aveva senso 
 
+### DECADENTISMO
+
+La società borghese del XIX secolo e i cambiamenti che la trasformarono in società di massa. L'arte e la letteratura diventano merce che dovevano soddisfare i mezzi dicomunicazione di massa.
+
+Anche la letteratura molte volte era funzionale a chi leggeva, non viceversa.
+
+
+| VALORI DEL DECADENTISMO | VALORI DELLA CULTURA DI MASSA            |
+| ----------------------- | ---------------------------------------- |
+| anticonformismo         | conformità                               |
+|                         | valore dell'arte se utile per la società |
+|                         | fiducia nel progresso                    |
+|                         | valori oggettivi                         |
+|                         | artista = "scienziato" indagatore        |
+
+Gli artisti del decadentismo muoiono spesso di malattie venere, alcolismo e droga.
+
+Gli attori simbolisti sono piu attaccati alla poesia rispetto alla prosa.
+
+- Boiler
+- Pascoli
+- d'Annunzio
+
+Lo stesso d'Annunzio scrive sia poesia sia romanzi. In generale il bello attraverso l'arte che sia lettraria che sia figurativa era cio che si opponeva ai valori conformi nella società di massa. 
+
+L'autore dell'estetismo è un **ESTETA** **NON** un **ESTETISTA**. 
+
+Questi eccessi di questi autori rispondo a un rifiuto di quello che la società imponeva.
