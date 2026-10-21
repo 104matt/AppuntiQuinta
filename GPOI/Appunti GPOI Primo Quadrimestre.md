@@ -187,7 +187,7 @@ Il secondo **modello** che vediamo è quello **collettivista** di matrice orient
 Il modello collettivista si ispira al pensiero di **Karl Marx** ed è stato applicato soprattutto nell'**URSS** e nei paesi del **blocco dell'Est**, oltre che in Cina e Vietnam. Lo **Stato** decide tramite una **pianificazione centrale** cosa, come e quanto produrre.
 {% endhint %}
 
-
+## ECONOMIA KEYNESIANA
 
 Negli **anni '30** ci fu una riflessione dopo le varie crisi economiche. L'economista **Keynes** sviluppò un **nuovo pensiero** misto/ibrido, **tra i due estremi**. Lui nota che **il sistema liberista** non era tutto da buttare via: il problema del sistema capitalista era che quando il mercato tendeva ad andare male **nessuno interveniva** per risolvere. Decreta quindi che:
 - Quando il **mercato si espande**, **lo stato deve** effettivamente **farsi da parte**. Quando però si giunge a una depressione economica lo **stato** deve **intervenire** (temporaneamente, senza eliminare mercato e proprietà privata) sul mercato **facendolo ripartire**. Lo stato può **rilanciare il mercato** tramite degli **investimenti strutturali** su opere molto costose che continueranno ad avere una loro utilità finita la crisi (Per Esempio Strade, Ponti, Scuole). Deve **creare** quindi qualcosa che **rimanga nel tempo** e che richieda **molti anni di lavoro**.
@@ -198,4 +198,21 @@ Negli **anni '30** ci fu una riflessione dopo le varie crisi economiche. L'econo
 			- Questa logica però non funziona e lascia allo stato solo un rimborso parziale per vari motivi tra cui il lavoro in nero oppure 
 		- Da questi investimenti si apre una **cascata** di **sub-appalti** *(Da finire)*
 
-- 
+Si è arrivati ad un epocha negli anni '90 dove c'era l'esigenza da parte dell'Italia di entrare in **Europa**. Per fare questo dovevamo fare tante cose tra cui **ridurre il debito pubblico**. Sono iniziate le privatizzazione di aziende statali, cedendo quote totali o parziali di queste aziende ai **privati** in cambio di denaro, vendendo poi il borsa le azioni di queste aziende per ricavare denaro e ridurre il controllo Deficit/PIL. E' stato fatto un prelievo **forzoso** da **tutti gli italiani** con la promessa di risanare almeno in parte i soldi presi ed effettivamente questi soldi sono stati **almeno in parte** restituiti.
+
+### IL CASO TELECOM ITALIA
+
+Fino alla metà degli anni '90 **TELECOM** era il **primo** (A livello di posizione) operatore telefonico **europeo.**
+
+Sempre in quegli anni li venne dato il via a un progetto molto importante e lungimirante detti progetto **socrate**. Fino agli anni '90 internet non c'era a casa, nella seconda metà degli anni '90 si iniziavano a intravedere i primi touter a 32 e 56 kbits. 
+Il progetto **socrate** consisteva nel **sostituire** TUTTO il **rame** in italia con la **fibra ottica.**
+Succede però che un certo **Roberto Collanino** (Ragioniere speculatore) pensa di fare un'operazione approfittando del fatto che TELECOM fosse stata venduta negli anni '90 a prezzi bassi e che avesse una marginalità maggiore del 50% (Fondamentalmente una macchina da soldi) .
+- Quando era stata quotata l'azienda qualche politico si era accorto di essere a rischio di scalata (Perdere il controllo della strurrura dell'impianto di telecomunicazioni italiano.)
+- Collanino inizia quindi a **raccogliere** denaro dalle banche indebitandosi con esse, raccogliendo **40 miliardi di euro**.
+- Per tutelarsi dal fatto che l'azienda era di asset strategico, i politici hanno attivato queste aziende vicino al governo e le hanno incitate a creare un gruppo di acquisto per fare in modo che una certa quota di azioni rimanesse sotto il controllo loro. Questo nocciolo duro andava dal 3 al 4% dell'azienda, che effettivamente non è nulla a livello finanziaro ma a livello politico aveva un suo significato.
+- Franco Bernabè nel frattempo per difendere l'indipendenza della società tentò una fusione con Doitch Telecom
+	- Il tentativo era quello di creare un boccone indigesto, voleva affondare tlecom unendosi a doitch telecom
+- Inizia la scalata che inizialmente era andata male alla fine ha successo e riesce a prendere il controllo dell'azienda
+- Collanino compie un'azione che in finanza ha un nome ma è una porcata, la leverage buyout  fondendo l'azienda prestanome con telecom facendole ereditare i **40 miliardi di debito**. Da quel momento in poi la telecom dovette impegnare TUTTI i suoi guadagni per pagare gli interessi e ridurre il debito.
+
+ 
