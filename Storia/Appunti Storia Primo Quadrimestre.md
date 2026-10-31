@@ -139,7 +139,39 @@ Grazie alle campagne culturali nei diversi paesi coinvolti la popolazione reagì
 La germania cerca il modo di sconfiggere la francia nel modo piu veloce possibile. Quindi decide di passare dal **Belgio**. Ci si aspettava di passare velocemente dal Belgio ma resiste piu del previsto e da il tempo agli alleati inglesi di raggiungere il fronte e fornire supporto. I due fronti si scontrano e quindi da una ipotetica **guerra lampo** a una **guerra di posizione**.
 
 
+**IL BIENNIO 1915-1916**
+
+Il biennio del 1915-1916 è il cuore della guerra di posizione. Non si ha una parte che prevale in maniera evidente, in più abbiamo **l'entrata in guerra da parte dell'Italia**.
+
+#### L'INGRESSO DELL'ITALIA
+
+L'entrata dell'**Italia** in guerra porta l'**Impero Austro Ungarico** a spostare parte delle sue risorse/truppe al confine con l'italia. L'esercito **italiano** era **numeroso** ma **mal equipaggiato** e guidato dal generale **Cadorna** che attaccò il fiume isonzo fallendo tutte le avanzate, si rende poco contio che questo conflitto è di natura statica e non dinamica e non capendo che le risorse (particolarmente gli uomini) non sono infinite. 
+
+L'unico successo che ebbe l'italia fu di fermare gli Austriaci ma **NON** di avanzare. 
+Sul **fronte** **occidentale** invece, tra le varie battaglie ci fu quella di **Verdun**, uno scontro che durò **otto mesi** in cui entrambi gli eserciti non riuscirono a sfondare le linee altrui.
+
+Si unisce alla triplice alleanza la Bulgaria e Romania e gli altri alla triplice intesa ma vengono subito sconfitte. 
+
+Gli scontri marittimi principali si svolsero nelle colonie tedesche dove la **Gran Bretagna** cercava di tagliargli il commercio. Le due flotte però a livello di potenza erano pari.
+
+La germania non prevalendo sulla gran bretagna investe di più sui sommergibili attaccando spesso e volentieri anche la flotta mercantile.
+
+Il **Portogallo** che aveva una potenza mercantile molto sviluppata dopo la conquista dell'america e supportando la Triplice Intesa con il commercio, vide la germania attaccare le sue flotte e decise di entrare in guerra contro la Triplice Alleanza.
+
+Tra i mecantili attaccati dai tedeschi ci sono anche quelli **Americani** che vendevano risorse ai paesi della **Triplice Intesa**. Questo viene visto dagli **Stati Uniti** come una perdita economica e alleandosi quindi con la Triplice Intesa intervenendo **direttamente** all'interno del conflitto.
 
 
+Per alcuni paesi la guerra inizia prima o dopo:
+
+| IN GENERALE | ITALIA    | USA       | RUSSIA    |
+| ----------- | --------- | --------- | --------- |
+| 1914-1918   | 1915-1918 | 1917-1918 | 1914-1917 |
+
+Contemporaneamente la **russi** nella quale la **rivoluzione bolscevica** aveva fatto cadere il **governo zarista** e facendo perdere la guerra alla **Russia** contro l'**Impero Austro Ungarico** che potè impegare più truppe sul fronte italiano che perse a **Cadorna** nella più grande sconfitta italiana dove perse il **Veneto e il Friuli** e perdendo come prigionieri **300.000** uomini.
+
+Verrà congedato il generale **Cadorna** e prendendo il generale **Armando Dìaz** che vedeva più l'aspetto umano delle truppe facendole vincere nella battaglia di **Vittorio Veneto**.
+
+
+**Anche** i **tedeschi** poterono impiegare più truppe sul fronte ma allo stesso tempo anche gli americani stavano fisicamenrte intervenendo, in più, l'impiego dei carri armati dalla parte degli inglesi crea un malcontento generale nelle truppe tedesche. Il Kaiser quindi **scappa in olanda**, viene creato quindi un nuovo governo **Repubblicano** che firmerà l'**Armistizio** che pone fine alla grande guerra l'**11 novembre dell 1918**.
 
 

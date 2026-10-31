@@ -23,6 +23,7 @@
 ## Sistemi e Reti
 
 * [Appunti SR Primo Quadrimestre](Sistemi%20e%20Reti/Appunti%20SR%20Primo%20Quadrimestre.md)
+* [SR Pratica](Sistemi%20e%20Reti/SR%20Pratica.md)
 
 ## Storia
 

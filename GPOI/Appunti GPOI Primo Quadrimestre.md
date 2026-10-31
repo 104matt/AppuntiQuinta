@@ -216,3 +216,19 @@ Succede però che un certo **Roberto Collanino** (Ragioniere speculatore) pensa 
 - Collanino compie un'azione che in finanza ha un nome ma è una porcata, la leverage buyout  fondendo l'azienda prestanome con telecom facendole ereditare i **40 miliardi di debito**. Da quel momento in poi la telecom dovette impegnare TUTTI i suoi guadagni per pagare gli interessi e ridurre il debito.
 
  
+# MONETARISMO
+
+Il monetarismo è una cosa trasversale e ortogonale, è un sistema indipendente dal sistema economico adottato. Consiste nel controllare il mercato mediante il controllo della moneta e delle sue caratteristiche.
+
+Le politiche di monetarismo vengono attuate dalle banche centrali, nel nostro caso è la banca centrale Europea, prima di entrare in EU avevamo la banca d'italia.
+
+NB. Le banche centrali devono essere completamente distaccate dalla politica. 
+
+La banca d'italia ogni volta che bisognava attuare una conversione con la lira, quest'ultima veniva deprezzata. Con l'ingresso nell'UE questa cosa smette di avvenire.
+
+
+
+|                | STATI UNITI | ITALIA | BANCA CENTRALE EUROPEA                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------- | ----------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **OBBIETTIVI** |             |        | Solo controllo dell'inflazione. Può intervenire solo quando l'inflazione si discosta troppo da quella che viene considerata una inflazione ottimale. Una inflazione ottimale è appena sotto il 2%. È una questione empirica, ma perchè non è male avere un pochino di inflazione? Perchè l'economia funzioni, deve esserci inflazione, la rende viva. Non deve essere però troppo alta perchè cala il potere contrattuale, i risparmi di vita. |
+|                |             |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
